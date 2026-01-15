@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/breen/breen_patch"
+     "$bumpmap" "models/breen/breen_patch_normal"
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" "5"									
+	"$phongfresnelranges"	"[.2 .6  1]"
+    "$halflambert" 1
+}

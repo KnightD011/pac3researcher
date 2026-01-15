@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/breen/dark_dictator_sheet"
+     "$bumpmap" "models/breen/breen_sheet_normal"
+    "$halflambert" 1
+	$nodecal 1
+}
